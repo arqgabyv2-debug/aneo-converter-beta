@@ -1,0 +1,21 @@
+body {
+  font-family: Century Gothic, Geneva, Tahoma, sans-serif;
+  input{
+    font-family: Century Gothic, Geneva, Tahoma, sans-serif;
+    border-radius: 3px;
+    width: 500px;
+    border: 3px solid #000000;
+    font-size: 20px;
+  }
+  button{
+    font-family: Century Gothic, bold, Tahoma, sans-serif;
+    border-radius: 3px;
+    border: 3px solid #000000;
+    font-size: 20px;
+  }
+  margin: 50px;
+  border: 3px solid #000000;
+  border-radius: 10px; 
+  background-color: #d9d9d9; 
+  padding: 15px;
+}
